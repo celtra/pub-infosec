@@ -1,2 +1,2 @@
-# pub-infosec
-Celtra InfoSec Public repository
+# Celtra InfoSec Public repository
+Welcome to Celtra Inc. InfoSec public repository
