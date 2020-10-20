@@ -7,10 +7,10 @@ However, security is a public good. You don't get as much of it if you try to on
 
 ## Security at Celtra
 
-Security is very important at Celtra. We are committed to providing you with policies and guidelines for safeguarding our assets and information. Every employee has an obligation to follow these policies and practice good security common sense.
+Security is very important at Celtra. We are committed to providing our employees with policies and guidelines for safeguarding our and clients assets and information. Every employee has an obligation to follow these policies and practice good security common sense.
 
 
-All the guidelines and policies are available trough Celtra Employee Handbook. If you have further questions on specific policies and procedures provided in the following sections, please reach out to our InfoSec Team.
+All the guidelines and policies are available trough Celtra Employee Handbook. If you have further questions on specific policies and procedures provided in the following sections, please reach out to Celtra InfoSec Team (slack #infosec or infosec@celtra.com)
 
 **As always - stay safe and vigilant!**
 
